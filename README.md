@@ -26,3 +26,10 @@ To use NewsGPT, run `main.py` in an Integrated Development Environment (IDE) to 
 6. Copy the unique identifier (CX) of your search engine.
 
 With these keys, you are all set to explore NewsGPT’s capabilities.
+
+#### Inspiration and disclaimer: 
+This project was initially conceived for a client on Upwork, who requested an AI application capable of performing enhanced internet searches to support query responses. The work on NewsGPT was completed diligently, meeting the project's specifications. Unfortunately, the client did not follow through with payment upon project completion, and consequently, no formal transaction was made. As a result, the project was never officially accepted nor transferred to the client, and thus, it remains under my ownership. In light of this, I've decided to share NewsGPT on GitHub as an open-source resource for others to learn from and build upon. Please note that while the project is based on a contracted idea, the code and implementation are solely my own contributions, unclaimed and unpaid by the original Upwork client.
+
+
+![Screenshot 2023-11-17 181025](https://github.com/Aa-ronT/NewsGPT/assets/103137680/cfa8ac92-8be4-437f-9eb8-67b33a0e4195)
+
